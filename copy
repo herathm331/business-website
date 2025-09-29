@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>culture of  sri lanka</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="culture of  sri lanka.css">
+     </head>
+<body>
+ 
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Sri Lankan Culture</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#home">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="Sign in.html">Sign in</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+   
+
+    <section id="home" class="bg-primary text-white text-center py-5">
+     <form> 
+        <div class="container">
+            <h1>Welcome to Sri Lankan Culture</h1>
+            <p>Explore the rich heritage and traditions of Sri Lanka</p>
+        </div>
+    </form>
+
+
+ <header class="hero">
+        <video autoplay muted loop class="hero-video">
+            <source src="" type="video/mp4">
+        </video>
+        <div class="hero-content">
+
+          
+    
+    
+        <div  class="container">
+            <a href="History.html">
+            <h2><button type=" History" class="btn btn-primary">History</button>
+            </a>
+        </div>
+    
+
+    
+        <div class="container">
+            <a href="Festivals & Traditions (Aluth aurudu).html">
+            <h2><button type=" Festivals & Traditions " class="btn btn-primary">Festivals & Traditions </button>
+            </a>
+        </div>
+
+
+   
+    
+        <div class="container">
+            <a href="Arts & Crafts.html">
+            <h2><button type=" Arts & Crafts " class="btn btn-primary">Arts & Crafts </button>
+            </a>    
+        </div>
+
+ </header>
+
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+ <script src="culture of  sri lanka.js"></script>
+
+    <footer class="text-center py-3 bg-dark text-white">
+        <p>&copy; 2024 Sri Lankan Culture</p>
+    </footer>
+
+    
+</body>
+</html>

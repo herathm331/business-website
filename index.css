@@ -1,0 +1,227 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #0a0a0a;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.navbar {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #f4d03f;
+}
+
+.nav-link {
+    font-size: 1rem;
+    transition: color 0.3s ease-in-out;
+}
+
+.nav-link:hover {
+    color: #f4d03f;
+}
+
+
+.hero {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(58, 50, 50, 0.6)), url('History-of-Kandy-Esala.png') center/cover no-repeat;
+    color: #fff;
+}
+
+.hero-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.hero-content p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.hero-content .btn {
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    border-radius: 30px;
+    background-color: #c2b061 ;
+    color: #333;
+    border: none;
+    transition: all 0.3s ease-in-out;
+}
+
+.hero-content .btn:hover {
+    background-color: #6e684d;
+    color: #fff;
+    transform: scale(1.1);
+}
+
+
+.featured-deals {
+    background-color: #f8f5f5;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.featured-deals h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.deals {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.deal {
+    background: #f4f4f4;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+}
+
+.deal img {
+    width: 100%;
+    height: auto;
+}
+
+.deal h3 {
+    font-size: 1.5rem;
+    margin: 15px 0;
+    color: #333;
+}
+
+.deal p {
+    font-size: 1rem;
+    color: #555;
+    padding: 0 10px 15px;
+}
+
+.deal:hover {
+    transform: scale(1.05);
+}
+
+
+footer {
+    background: #333;
+    color: #f4d03f;
+    padding: 200px 200px;
+    text-align: center;
+}
+
+footer p {
+    margin: 0.9rem;
+    font-size: 0.8rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
